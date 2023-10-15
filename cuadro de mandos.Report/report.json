@@ -25,7 +25,17 @@
       "filters": "[]",
       "height": 720.00,
       "name": "ReportSection",
-      "visualContainers": [],
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"781aa80332c2568d4f24\",\"layouts\":[{\"id\":0,\"position\":{\"x\":123.39414225941422,\"y\":80.89171548117154,\"z\":0,\"width\":281.0644351464435,\"height\":279.6933891213389,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"columnChart\",\"projections\":{\"Category\":[{\"queryRef\":\"Tabla.Columna1\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"t\",\"Entity\":\"Tabla\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"t\"}},\"Property\":\"Columna1\"},\"Name\":\"Tabla.Columna1\",\"NativeReferenceName\":\"Columna1\"}]},\"drillFilterOtherVisuals\":true}}",
+          "filters": "[]",
+          "height": 279.69,
+          "width": 281.06,
+          "x": 123.39,
+          "y": 80.89,
+          "z": 0.00
+        }
+      ],
       "width": 1280.00
     }
   ]
